@@ -1,0 +1,18 @@
+// // SETUP
+@import './setup/typography';
+@import './setup/variables';
+@import './setup/mixins';
+@import './setup/functions';
+
+// // BASICS
+@import './basic/helpers';
+@import './basic/base';
+@import './basic/layout';
+
+// // COMPONENTS
+@import './components/header-cmp.scss';
+@import './components/hero-cmp.scss';
+@import './components/main-features.scss';
+@import './components/productive-cmp.scss';
+
+@import "./basic/screen";

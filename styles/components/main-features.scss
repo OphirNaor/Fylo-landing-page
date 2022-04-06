@@ -1,0 +1,27 @@
+.features {
+    background-color: hsl(218, 28%, 13%);
+    align-content: center;
+
+}
+
+
+.feature-item {
+    width: 40%;
+    padding: 2rem 2.5rem;
+    text-align: center;
+
+}
+
+.feature-content {
+    margin-top: 2rem;
+
+    h3 {
+        font-family: 'Raleway-bold', sans-serif;
+        font-size: 20px;
+    }
+
+    p {
+        font-family: 'OpenSans', sans-serif;
+        font-size: 14px;
+    }
+}
